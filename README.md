@@ -238,3 +238,6 @@ This repository serves as the official landing page for Free Monitor for Google.
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Free Monitor for Google today!**
+
+---
+**Last updated:** 2026-09-09 14:13:17 UTC
